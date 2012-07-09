@@ -20,5 +20,5 @@
 * [官方站点](http://www.tenable.com/products/nessus)
 
 ## 软件更新
-* 软件经常性更新
+* 软件经常更新
 * home feed可以免费试用，有效期15天
